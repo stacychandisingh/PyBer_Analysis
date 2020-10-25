@@ -10,9 +10,9 @@ There is a description of the differences in ride-sharing data among the differe
 Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 -For Urban Cities, the total rides was the highest, the total drivers was the highest, the total fares for this city type was the highest, the average fare per ride was the lowest and the average fare per driver was the lowest.
 
--For Suburban Cities, the total rides was the second highest, the total drivers was the second highest, the total fares for this city type was the second highest, the average fare per ride was the second highest and the average fare per driver was the second highest.
+- For Suburban Cities, the total rides was the second highest, the total drivers was the second highest, the total fares for this city type was the second highest, the average fare per ride was the second highest and the average fare per driver was the second highest.
 
--For Rural Cities, the total rides was the lowest, the total drivers was the lowest, the total fares for this city type was the lowest, the average fare per ride was the highest and the average fare per driver was the highest.
+- For Rural Cities, the total rides was the lowest, the total drivers was the lowest, the total fares for this city type was the lowest, the average fare per ride was the highest and the average fare per driver was the highest.
 
 **The following images show a summary and a multi-line chart of Pyber Data based on city type:**
 
