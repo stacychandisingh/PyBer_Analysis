@@ -4,7 +4,7 @@ Visualizing Ride Sharing Data
 
 The purpose of the new analysis is to use Pandas and Matplotlib to create a multiple-line graph that shows the total weekly fares for each city type.
 
-#Results
+# Results
 
 There is a description of the differences in ride-sharing data among the different city types. 
 Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
@@ -20,7 +20,7 @@ Ride-sharing data include the total rides, total drivers, total fares, average f
 
 ![Pyber Chart](Resources/Pyber_Summary.PNG)
 
-#Summary
+# Summary
 
 Three business recommendations to the CEO for addressing any disparities among the city types include:
 - Winter time is not the best time for Pyber ride sharing in Rural areas. Increase the number of total drivers in Rural areas so fares can be cheaper leading to more accessibility.
