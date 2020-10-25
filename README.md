@@ -8,7 +8,7 @@ The purpose of the new analysis is to use Pandas and Matplotlib to create a mult
 
 Description of the differences in ride-sharing data among the different city types. 
 
--For Urban Cities, the total rides was the highest, the total drivers was the highest, the total fares for this city type was the highest, the average fare per ride was the lowest and the average fare per driver was the lowest.
+- For Urban Cities, the total rides was the highest, the total drivers was the highest, the total fares for this city type was the highest, the average fare per ride was the lowest and the average fare per driver was the lowest.
 
 - For Suburban Cities, the total rides was the second highest, the total drivers was the second highest, the total fares for this city type was the second highest, the average fare per ride was the second highest and the average fare per driver was the second highest.
 
