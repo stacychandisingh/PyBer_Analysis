@@ -1,6 +1,8 @@
 # PyBer_Analysis
+
 Visualizing Ride Sharing Data
-#Overview of the analysis
+
+# Overview of the analysis
 
 The purpose of the new analysis is to use Pandas and Matplotlib to create a multiple-line graph that shows the total weekly fares for each city type.
 
